@@ -6,3 +6,7 @@ Project goals:
 * Define question(s)
 * Answer questions with data visualizations
 * Write blog post
+
+Questions:
+* Is life expectancy correlated with GDP?
+* Do any countries see an downward trend in GDP over time?
